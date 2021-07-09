@@ -11,6 +11,8 @@
 		78410D7E2697F46600885F0D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78410D7D2697F46600885F0D /* ContentView.swift */; };
 		78410D802697F46800885F0D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 78410D7F2697F46800885F0D /* Assets.xcassets */; };
 		78410D832697F46800885F0D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 78410D822697F46800885F0D /* Preview Assets.xcassets */; };
+		78410D8B2697F8A200885F0D /* Raleway in Resources */ = {isa = PBXBuildFile; fileRef = 78410D8A2697F8A200885F0D /* Raleway */; };
+		78410D8D269800D600885F0D /* Lato in Resources */ = {isa = PBXBuildFile; fileRef = 78410D8C269800D600885F0D /* Lato */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		78410D7F2697F46800885F0D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		78410D822697F46800885F0D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		78410D842697F46800885F0D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		78410D8A2697F8A200885F0D /* Raleway */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Raleway; sourceTree = "<group>"; };
+		78410D8C269800D600885F0D /* Lato */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Lato; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 			children = (
 				78410D7B2697F46600885F0D /* PackedApp.swift */,
 				78410D7D2697F46600885F0D /* ContentView.swift */,
+				78410D8C269800D600885F0D /* Lato */,
+				78410D8A2697F8A200885F0D /* Raleway */,
 				78410D7F2697F46800885F0D /* Assets.xcassets */,
 				78410D842697F46800885F0D /* Info.plist */,
 				78410D812697F46800885F0D /* Preview Content */,
@@ -126,6 +132,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				78410D8D269800D600885F0D /* Lato in Resources */,
+				78410D8B2697F8A200885F0D /* Raleway in Resources */,
 				78410D832697F46800885F0D /* Preview Assets.xcassets in Resources */,
 				78410D802697F46800885F0D /* Assets.xcassets in Resources */,
 			);
